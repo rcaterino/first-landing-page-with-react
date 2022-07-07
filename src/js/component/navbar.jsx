@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Star Bootstrap</a>
+    <a class="navbar-brand" href="#">My First Landing Page</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
       <span class="navbar-toggler-icon"></span>
     </button>
