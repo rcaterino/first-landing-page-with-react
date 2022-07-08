@@ -1,6 +1,5 @@
 import React from "react";
-import '/Repositorio/first-landing-page-with-react/src/styles/cards.css';
-import image from '/Repositorio/first-landing-page-with-react/src/img/image.png';
+import image from '../img/image.png';
 
 const Cards = () => {
   return (
